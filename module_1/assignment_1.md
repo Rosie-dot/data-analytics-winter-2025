@@ -29,6 +29,8 @@ You will ask ChatGPT the following question:
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
+ 
+    This is my idea about this....
 
 The explanation was clear and the steps were accurate until step 3b (where it says “From the Context Menu, choose Sort”). The only sort options in the context menu sorted the way that the data fields appeared in the context menu itself rather than the PivotTable. In the end, I ended up figuring out how to sort the data myself. I selected the row of data and went to the Home tab <   <  Sort Smallest to Largest. I do wish that ChatGPT’s instructions had been more specific and offered more than one way to sort the data. It could definitely improve by providing more methods to achieve one solution and providing its sources somewhere on the page so that users can access it directly if needed.
 ---
